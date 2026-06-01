@@ -10,15 +10,7 @@
 </p>
 
 ---
-
-## About 
-
-I am exploring different areas of software engineering through projects, including web development, AI applications, and IoT-based systems.
-
-Most of my repositories started as university projects, but I try to improve them beyond the course requirements by making them more usable, documented, and presentable.
-
----
-## What I Build
+## What I Build 
 
 <table>
 <tr>
@@ -53,7 +45,7 @@ Projects that connect software with real-world environments and automation ideas
 
 ---
 
-## Selected Projects
+## Recent Projects
 
 ### · AloAnne
 A digital support platform for pregnant women and new mothers, focused on guidance, community, and reliable information.  
@@ -72,44 +64,8 @@ AI-powered wellbeing support project designed to provide personalized recommenda
 [![Website](https://img.shields.io/badge/Website-ff69b4?style=flat-square&logo=streamlit&logoColor=white)](https://women-wellbeing-ai-assistant.streamlit.app/)
 
 ---
-
-## Technologies I Use
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C-2f2f2f?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-2f2f2f?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-2f2f2f?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-2f2f2f?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-2f2f2f?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-2f2f2f?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap-6f42c1?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-2f2f2f?style=flat-square&logo=github&logoColor=white" />
-</p>
-
----
-
 ## Currently Exploring
 
 - AI agents and intelligent applications
 - Better documentation for academic projects
 - Clean and usable web interfaces
-
----
-
-<p align="center">
-  Thanks for visiting my profile.
-</p>
