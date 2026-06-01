@@ -98,7 +98,6 @@ AI-powered wellbeing support project designed to provide personalized recommenda
   <img src="https://img.shields.io/badge/SQL_Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-2f2f2f?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-fb7a24?style=flat-square&logo=xampp&logoColor=white" />
 </p>
 
 ---
